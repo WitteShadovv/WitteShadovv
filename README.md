@@ -22,4 +22,5 @@ Background in Linux systems engineering and infrastructure automation, with a gr
 ## Contact
 
 Keyoxide: [view profile](https://keyoxide.org/aspe:keyoxide.org:6BBFZQKKZC4P4WXL7XOXIXWUOU)  
-PGP: [view key](https://keys.openpgp.org/vks/v1/by-fingerprint/FCEB73CE73A700A88548F25DCB4BBA751B7B4D4D)
+PGP: [view key](https://keys.openpgp.org/vks/v1/by-fingerprint/FCEB73CE73A700A88548F25DCB4BBA751B7B4D4D)  
+Signal: [open chat](https://signal.me/#eu/lbAp8CuZdE0OfCZWZ4cDrmkaYLPmc5tImO3q3my-_Xy3xXGnYW5KopUs-7QdU16y)
