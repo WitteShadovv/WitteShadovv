@@ -2,10 +2,10 @@ Systems engineering background, started at ETH Zürich. Currently completing an 
 
 ## Projects
 
-### NAILS *(coming soon)*
+### [NAILS](https://github.com/WitteShadovv/nails)
 The main thesis artifact. A command-line tool for plausibly deniable dual-environment computing on NixOS, using Linux OverlayFS together with the NixOS impermanence module to run a hidden environment alongside a visible decoy. Switching is near-instant and forensic artifacts are cleaned up automatically. GPL-3.0, alpha.
 
-### NAILS OS *(coming soon)*
+### [NAILS OS](https://github.com/WitteShadovv/nails-os)
 A privacy-focused amnesic NixOS live distribution (think Tails), built as the reference platform for running NAILS. GPL-3.0, alpha.
 
 ### [deferred-apps](https://github.com/WitteShadovv/deferred-apps)
