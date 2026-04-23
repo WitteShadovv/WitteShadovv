@@ -1,26 +1,32 @@
-Systems engineering background, started at ETH Zürich. Currently completing an MSc in Information Security in Stockholm, with thesis research on plausible deniability and anti-forensics on NixOS, in collaboration with [GFF](https://freiheitsrechte.org/), a German civil liberties organisation.
+# WitteShadovv
 
-## Projects
+Security engineer and Linux systems engineer based in Stockholm, Sweden.
+
+I build Linux systems, security tooling, and reproducible infrastructure. Current work is centered on NixOS, Rust, privacy-preserving systems, digital forensics, security architecture, and systems programming.
+
+## Selected Projects
 
 ### [NAILS](https://github.com/WitteShadovv/nails)
-The main thesis artifact. A command-line tool for plausibly deniable dual-environment computing on NixOS, using Linux OverlayFS together with the NixOS impermanence module to run a hidden environment alongside a visible decoy. Switching is near-instant and forensic artifacts are cleaned up automatically. GPL-3.0, alpha.
+Plausibly deniable dual-environment computing for NixOS. Uses Linux OverlayFS together with the NixOS impermanence module to run a hidden environment alongside a visible decoy. Near-instant switching, with forensic artifacts minimized.
 
 ### [NAILS OS](https://github.com/WitteShadovv/nails-os)
-A privacy-focused amnesic NixOS live distribution (think Tails), built as the reference platform for running NAILS. GPL-3.0, alpha.
+A privacy-focused amnesic NixOS live distribution built as the reference platform for NAILS.
 
 ### [deferred-apps](https://github.com/WitteShadovv/deferred-apps)
-On-demand, isolated NixOS application environments.
-
----
+On-demand, isolated application environments for NixOS.
 
 ## Background
 
-Background in Linux systems engineering and infrastructure automation, with a gradual shift over the past few years into security, digital forensics, and penetration testing. The work I find most interesting sits at the intersection of automation, privacy, open source, and systems designed to be secure from the ground up. Primarily working in Rust and Nix.
+MSc in Information Security at Stockholm University
 
----
+8+ years working with Linux systems. 4 years in technical roles at ETH Zürich. Work across Linux systems, security engineering, reproducible infrastructure, digital forensics, and privacy-preserving systems.
+
+Open to selected roles in security engineering, platform, and systems work.
 
 ## Contact
 
-Keyoxide: [view profile](https://keyoxide.org/aspe:keyoxide.org:6BBFZQKKZC4P4WXL7XOXIXWUOU)  
-PGP: [view key](https://keys.openpgp.org/vks/v1/by-fingerprint/FCEB73CE73A700A88548F25DCB4BBA751B7B4D4D)  
-Signal: [open chat](https://signal.me/#eu/lbAp8CuZdE0OfCZWZ4cDrmkaYLPmc5tImO3q3my-_Xy3xXGnYW5KopUs-7QdU16y)
+General: [contact@witteshadovv.dev](mailto:contact@witteshadovv.dev)  
+Security: [security@witteshadovv.dev](mailto:security@witteshadovv.dev)  
+Keyoxide: [profile](https://keyoxide.org/aspe:keyoxide.org:6BBFZQKKZC4P4WXL7XOXIXWUOU)  
+PGP: [key](https://keys.openpgp.org/vks/v1/by-fingerprint/FCEB73CE73A700A88548F25DCB4BBA751B7B4D4D)  
+Signal: [chat](https://signal.me/#eu/lbAp8CuZdE0OfCZWZ4cDrmkaYLPmc5tImO3q3my-_Xy3xXGnYW5KopUs-7QdU16y)
