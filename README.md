@@ -19,7 +19,7 @@ On-demand application availability for NixOS and Home Manager. Apps appear insta
 
 ## Upstream Contributions
 
-- [nixpkgs: portmaster + NixOS module](https://github.com/NixOS/nixpkgs/pull/442904). Packaged the Portmaster application firewall and wrote its NixOS module. Merged August 2026.
+- [nixpkgs: portmaster + NixOS module](https://github.com/NixOS/nixpkgs/pull/442904). Packaged the Portmaster application firewall and wrote its NixOS module. Merged August 2026, and I maintain both in nixpkgs.
 - [nix-bwrapper: YAML Flatpak manifest support](https://github.com/Naxdy/nix-bwrapper/pull/26). Merged February 2026.
 
 ## Background
