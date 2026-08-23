@@ -4,8 +4,6 @@ Cyber Security Engineer and Linux systems engineer based in Zürich, Switzerland
 
 I build Linux systems, security tooling, and reproducible infrastructure. Current work is centered on NixOS, Rust, privacy-preserving systems, digital forensics, security architecture, and systems programming.
 
-Website: [witteshadovv.dev](https://witteshadovv.dev)
-
 ## Selected Projects
 
 ### [NAILS](https://github.com/WitteShadovv/nails)
