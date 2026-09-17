@@ -26,7 +26,7 @@ MSc in Information Security from Stockholm University.
 
 8+ years working with Linux systems. 4 years in technical roles at ETH Zürich. Work across Linux systems, security engineering, reproducible infrastructure, digital forensics, and privacy-preserving systems.
 
-Currently employed as a Cyber Security Engineer in Zürich. Open to selected consulting engagements ([details](https://witteshadovv.dev/#consult)) and to conversations about security engineering, platform, and systems roles.
+Currently employed as a Cyber Security Engineer in Zürich.
 
 ## Contact
 
